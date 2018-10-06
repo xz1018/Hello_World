@@ -1,2 +1,3 @@
 # Hello_World
 Sample Repository
+Hi, I am getting familiar with the Git procees...Feel like I am back to my old world. Exciting...
